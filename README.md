@@ -28,11 +28,6 @@ This project focuses on **Data Preprocessing and Exploratory Data Analysis (EDA)
 
 ## 🚀 How to Run the Project
 
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/mahima5080/Titanic-Survival-Prediction-Data-Cleaning-Project.git](https://github.com/mahima5080/Titanic-Survival-Prediction-Data-Cleaning-Project.git)
-   cd Titanic-Survival-Prediction-Data-Cleaning-Project
-
 
    📁 Repository Structure
    ├── Titanic-Dataset.csv           # Raw input dataset
